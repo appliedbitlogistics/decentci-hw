@@ -4,6 +4,11 @@
   "description": "Hello World Node Module",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appliedbitlogistics/decentci-hw"
+  },
+  "homepage": "https://github.com/appliedbitlogistics/decentci-hw",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
