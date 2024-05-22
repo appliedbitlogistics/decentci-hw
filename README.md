@@ -1,6 +1,6 @@
 # decentci-hw
 
-A simple Node.js module that prints "Hello World" to the console.
+A simple ES6 Node.js module that prints "Hello World" to the console.
 
 ## Installation
 
@@ -18,6 +18,12 @@ To use this module, import the `sayHello` function and call it:
 import { sayHello } from 'decentci-hw';
 
 sayHello(); // This will print "Hello World" to the console
+```
+
+> NOTE: Becsuse this is an ES6 Module you will need the following in your package.json file.
+
+```
+  "type": "module",
 ```
 
 ## Example
