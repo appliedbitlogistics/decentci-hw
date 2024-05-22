@@ -1,0 +1,17 @@
+{
+  "name": "decentci-hw",
+  "version": "1.0.0",
+  "description": "Hello World Node Module",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "example"
+  ],
+  "author": "John Haverlack",
+  "license": "MIT"
+}
